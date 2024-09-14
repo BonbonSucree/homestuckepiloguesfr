@@ -12,7 +12,7 @@
 
 @font-face {
   font-family: 'Homestuck-Regular';
-  src: url('/assets/Homestuck-Regular.woff2');
+  src: url('/Les Épilogues de Homestuck Traduction Française_files/Homestuck Regular.ttf') format("truetype");
 }
 
 @font-face {
@@ -89,7 +89,7 @@ b {font-weight:bold;}
 .pagehead {
   padding-top: 20px;
   font-size: 56px;
-  font-family: 'Homestuck-Regular', 'Cubic-11', Courier;
+  font-family: 'Homestuck-Regular', 'Homestuck Regular', 'Cubic-11', Courier;
   font-weight: normal;
   line-height: 1.35;
 }
