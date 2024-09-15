@@ -1,0 +1,43 @@
+.pad-t-lg {
+    padding-top: 30px
+}
+.pad-x-lg--md {
+    padding-right: 30px;
+    padding-left: 30px
+}
+.type-center {
+    text-align: center
+}
+h1.type-hsep-header, h2.type-hsep-header, h3.type-hsep-header, h4.type-hsep-header {
+    font-family: 'Homestuck-Regular', monospace;
+    font-weight: normal
+}
+.line-tight {
+    line-height: 1.15
+}
+.type-xl {
+    font-size: 56px
+}
+.pos-r {
+    position: relative
+}
+.pad-t-sm {
+    padding-top: 5px
+}
+.pad-x-lg {
+    padding-right: 30px;
+    padding-left: 30px
+}
+.disp-ib {
+    display: inline-block
+}
+.type-lg {
+    font-size: 39px
+}
+.hsep_bullet {
+    position: relative;
+    top: 10px;
+    left: -6px;
+    margin-right: 3px;
+    vertical-align: text-bottom
+}
