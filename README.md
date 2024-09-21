@@ -14,7 +14,12 @@ Vous pouvez retrouvez cette traduction sur
 (actuellement non mis à jour)
 
 LOG:
+
 14/09/2024:
 Création du projet sur GITHUB
+
 15/09/2024:
 Actuellement, ce projet comporte la traduction totale des trois pages de PROLOGUE et une seule page de VIANDE - MEAT
+
+21/09/2024:
+Ajout de la première page de BONBON - CANDY
