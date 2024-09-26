@@ -23,3 +23,6 @@ Actuellement, ce projet comporte la traduction totale des trois pages de PROLOGU
 
 21/09/2024:
 Ajout de la première page de BONBON - CANDY
+
+26/09/2024:
+Ajout des pages "Qui suis-je?" et "Homestuck, c'est quoi?"
