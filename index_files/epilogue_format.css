@@ -99,8 +99,73 @@ div.chat p {
   text-indent: 0px;
   font-weight: bold;
 }
+.aranea {
+  color: #005682;
+}
+.aradia {
+  color: #a10000;
+}
+.caliborn {
+  color: #2ed73a;
+}
+.calliope {
+  color: #a1a3a6;
+}
+.calliope-dead {
+  color: #ff0000;
+}
+.calliope-dead-story {
+  font-family: adobe-garamond-pro, serif;
+  font-weight: normal;
+  color: #000000;
+}
+.dave {
+  color: #e00707;
+}
+.davepetasprite {
+  color: #416600;
+}
+.davepetasprite-dialogue {
+  color: #f2a400;
+}
+.dirk {
+  color: #f2a400;
+}
+.eridan {
+  color: #7e0048;
+}
+.feferi {
+  color: #77003c;
+}
+.gamzee {
+  color: #2b0057;
+}
+.harry {
+  color: #0671cd;
+}
+.jade {
+  color: #4ac925;
+}
+.jade-brainwashed {
+  color: #000000;
+}
+.jake {
+  color: #1f9400;
+}
+.jane {
+  color: #0097d7;
+}
 .john {
   color: #0715cd;
+}
+.kanaya {
+  color: #008141;
+}
+.karkat {
+  color: #7c7e81;
+}
+.obama {
+  color: #000000;
 }
 .rose {
   color: #b536da;
@@ -108,8 +173,23 @@ div.chat p {
 .roxy {
   color: #ff6ff2;
 }
-.calliope {
-  color: #a1a3a6;
+.sollux {
+  color: #a1a100;
+}
+.swifer {
+  color: #008141;
+}
+.tavros {
+  color: #a15000;
+}
+.tavros-kid {
+  color: #2b0057;
+}
+.terezi {
+  color: #008282;
+}
+.vriska {
+  color: #005682;
 }
 
 @media screen and (max-width: 675px) {
